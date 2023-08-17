@@ -6,7 +6,7 @@
       "password":"abc123"
     }
   ],
-    "question": {
+    "forum": {
       "userAvatar": "user_avatar.png",
       "username": "JohnDoe123",
       "questionTitle": "How to sort an array in JavaScript?",
